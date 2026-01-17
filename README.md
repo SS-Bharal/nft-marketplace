@@ -1,4 +1,4 @@
-# NFT Marketplace MVP Backend
+# NFT Marketplace MVP
 
 A high-performance, optimized MVP backend for an NFT Marketplace built with Go, Gin, GORM, and PostgreSQL.
 
